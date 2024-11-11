@@ -1,0 +1,123 @@
+#Work-In {
+    background-color: #392702;
+    padding: 40px 20px;
+    text-align: center;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+#Work-In h2 {
+    font-size: 2em;
+    color: #ffffff;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#Work-In .img-planos {
+    width: 900px;
+    max-width: 1400px;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 2px 0px 10px rgb(246, 243, 239);
+}
+
+#Work-In .intro {
+    font-size: 1.1em;
+    color: #edb62d;
+    margin-bottom: 30px;
+}
+
+.planos {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    overflow: hidden;
+    overflow-x: auto;
+}
+
+.card {
+    background-color: #fff;
+    box-shadow: 2px 4px 8px rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+    width: 30%;
+    text-align: left;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    box-shadow: 2px 0 10px hsla(200.7, 90.9%, 52.5%, 1.0);
+}
+
+.card h3 {
+    font-size: 1.6em;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.card .preco {
+    font-size: 1.2em;
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.card .descricao {
+    font-size: 1em;
+    color: #666;
+    margin-bottom: 15px;
+}
+
+.card .beneficios-titulo {
+    font-weight: bold;
+    color: #007bff;
+    margin-bottom: 10px;
+}
+
+.card .beneficios {
+    list-style: none;
+    padding-left: 0;
+    font-size: 1em;
+    color: #444;
+}
+
+.card .beneficios li {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}
+
+.card .beneficios li i {
+    margin-right: 10px;
+    color: #007bff;
+}
+
+.card .cta-btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin-top: 15px;
+    transition: background-color 0.3s ease;
+}
+
+.card .cta-btn:hover {
+    background-color: #0056b3;
+}
+@media (max-width: 768px) {
+    #Work-In .img-planos {
+        width: 340px;
+        margin: 10px;
+        height: 400px;
+    }
+    .planos {
+    }
+    .planos .card {
+        background-color: yellow;
+        width: 350px;
+    }
+}

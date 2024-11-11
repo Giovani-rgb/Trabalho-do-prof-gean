@@ -1,0 +1,85 @@
+#Comece-aqui {
+    background-color: #eba70b; 
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+/* Estilo para o título principal */
+#Comece-aqui h1 {
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 15px;
+    font-weight: 700;
+}
+
+/* Estilo para a imagem */
+#academy {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 15px auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para a imagem */
+}
+
+/* Estilo para a localização */
+#Comece-aqui p:first-of-type {
+    font-size: 1.1em;
+    color: #666;
+    font-weight: 600;
+    margin-top: 10px;
+    text-align: center;
+}
+
+/* Estilo para o subtítulo */
+#Comece-aqui h2 {
+    font-size: 1.5em;
+    color: #333;
+    margin-top: 20px;
+    font-weight: 700;
+    text-align: center;
+}
+
+/* Estilo para o parágrafo principal */
+#Comece-aqui p {
+    font-size: 1em;
+    color: #444;
+    line-height: 1.6;
+    text-align: justify;
+    margin: 15px;
+}
+
+/* Estilo para a lista de benefícios */
+#Comece-aqui .additional-benefits ul {
+    list-style-type: none;
+    padding: 20px;
+    margin: 20px auto;
+}
+
+#Comece-aqui .additional-benefits li {
+    font-size: 1.1em;
+    color: #444;
+    padding: 20px;
+    margin-bottom: 10px;
+    background-color: #66e156;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, transform 0.2s ease-in-out;
+}
+
+#Comece-aqui .additional-benefits li:hover {
+    background-color: #f0f4f8;
+    transform: scale(1.08);
+}
+
+/* Responsividade para a lista */
+@media (max-width: 768px) {
+    #Comece-aqui .additional-benefits li {
+        font-size: 1em;
+        
+    }
+}

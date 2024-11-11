@@ -1,0 +1,139 @@
+/* Estilo geral da seção */
+#Sobre-Nos {
+    background: #ca68d2;
+    color: #fff;
+    border-radius: 10px;
+    max-height: 900px;
+    max-width: 1400px;
+    margin: 20px auto;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+/* Estilo para o título principal */
+#Sobre-Nos h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+/* Estilo para a seção de avisos */
+#Sobre-Nos .avisos {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+/* Estilo para os títulos de avisos */
+#Sobre-Nos .avisos h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+#Sobre-Nos .avisos h3 {
+    font-size: 1.2em;
+    font-weight: bold;
+    color: #ffd700; /* Destaque */
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+
+/* Texto dos avisos */
+#Sobre-Nos .avisos p {
+    font-size: 1em;
+    color: #f0f0f0;
+    line-height: 1.6;
+    margin: 10px 0;
+}
+
+/* Estilo para o título do formulário */
+#Sobre-Nos h2 {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+/* Estilo do formulário */
+#Sobre-Nos form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Rótulos do formulário */
+#Sobre-Nos form label {
+    font-size: 1em;
+    color: #fff;
+    margin-top: 10px;
+}
+
+/* Campos de entrada do formulário */
+#Sobre-Nos form input[type="text"],
+#Sobre-Nos form input[type="email"],
+#Sobre-Nos form input[type="tel"] {
+    width: 100%;
+    max-width: 400px;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    font-size: 1em;
+}
+
+/* Estilo do botão */
+#Sobre-Nos form button {
+    padding: 10px 20px;
+    background-color: #ffd700; /* Cor de destaque */
+    color: #333;
+    font-size: 1em;
+    width: 100%;
+    max-width: 400px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+#Sobre-Nos form button:hover {
+    background-color: #ffc107;
+}
+
+/* Ajustes para telas menores */
+@media (max-width: 768px) {
+    #Sobre-Nos {
+      overflow-y: auto;
+    }
+
+    #Sobre-Nos h1 {
+        font-size: 1.6em;
+        margin-top: 10px;
+    }
+    #Sobre-Nos .avisos{
+      margin: 10px;
+    }
+    #Sobre-Nos .avisos h2, #Sobre-Nos h2 {
+        font-size: 1.5em;
+    }
+
+    #Sobre-Nos .avisos h3 {
+        font-size: 1.1em;
+    }
+
+    #Sobre-Nos form input[type="text"],
+    #Sobre-Nos form input[type="email"],
+    #Sobre-Nos form input[type="tel"] {
+        max-width: 90%;
+        
+    }
+    #Sobre-Nos form button{
+      max-width: 90%;
+      margin-bottom: 20px;
+    }
+}
