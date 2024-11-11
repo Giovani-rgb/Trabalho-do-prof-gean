@@ -1,53 +1,41 @@
 # Power Fit
 
-## Comece Aqui
+![Version](https://img.shields.io/badge/version-1.0.0-blue)  
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)  
+![License](https://img.shields.io/badge/license-MIT-yellow)  
 
-A Power Fit é mais do que uma academia, é o seu novo espaço de bem-estar e saúde. Se você está começando sua jornada fitness ou já é um atleta experiente, temos o ambiente perfeito para você. 
+## Índice
 
-### Workout
-Aqui, a sua evolução é nossa prioridade. Com programas personalizados e suporte de profissionais qualificados, você vai alcançar todos os seus objetivos, sejam eles de tonificação, perda de peso ou aumento de massa muscular.
+- [Sobre](#sobre)
+- [Por que a Power Fit é Diferente?](#por-que-a-power-fit-é-diferente)
+- [Benefícios Exclusivos](#benefícios-exclusivos)
+- [Horários das Aulas da Academia](#horários-das-aulas-da-academia)
+- [Planos e Preços](#planos-e-preços)
+- [Avisos](#avisos)
+- [Links Úteis](#links-úteis)
+- [Redes Sociais](#redes-sociais)
+- [Contato](#contato)
 
-### Work-In
-Acreditamos que a saúde mental e física caminham lado a lado. Além de treinos intensivos, oferecemos atividades que promovem o equilíbrio entre corpo e mente, criando um espaço harmônico para você crescer.
+## Sobre
 
----
+A Power Fit é uma academia que prioriza a saúde, o bem-estar e a evolução de cada aluno. Localizada no bairro São José, em Feira de Santana, Bahia, nossa missão é proporcionar um ambiente moderno, motivador e seguro para todos. 
 
-## Sobre Nós
+## Por que a Power Fit é Diferente?
 
-A Power Fit é uma academia que prioriza a saúde, o bem-estar e a evolução de cada aluno. Localizada no bairro São José, em Feira de Santana, Bahia, nossa missão é proporcionar um ambiente moderno, motivador e seguro para todos.
+Na Power Fit, acreditamos que o exercício é para todos. Oferecemos uma infraestrutura moderna com equipamentos de última geração e profissionais altamente qualificados para garantir que cada aluno atinja seus objetivos com eficiência e segurança.
 
-Com equipamentos de última geração e uma equipe de instrutores altamente qualificados, garantimos que você alcance seus objetivos de maneira eficiente, segura e personalizada.
-
-### Por que a Power Fit é Diferente?
-Na Power Fit, acreditamos que o exercício é para todos. Seja você iniciante ou avançado, temos um plano de treinamento ideal para o seu nível. Além disso, contamos com:
-
-- Equipamentos de última geração e sempre bem conservados.
-- Treinamentos personalizados para todos os níveis de condicionamento físico.
-- Ambientes amplos e climatizados para maior conforto e desempenho.
-- Acompanhamento de nutricionistas e treinadores especializados.
-- Programas de saúde e bem-estar focados no equilíbrio corpo-mente.
-
----
+- **Ambiente Aconchegante:** Nossa academia foi planejada para oferecer conforto, com áreas climatizadas e amplas.
+- **Acompanhamento Personalizado:** Oferecemos suporte de nutricionistas e treinadores especializados.
 
 ## Benefícios Exclusivos
 
-- Equipamentos de última geração
-- Treinamentos personalizados para todos os níveis
-- Ambientes amplos e climatizados
-- Acompanhamento de nutricionistas e treinadores especializados
-- Programas de saúde e bem-estar focados no equilíbrio corpo-mente
-
----
+- **Equipamentos de Última Geração:** Sempre bem conservados para um treino eficiente.
+- **Treinamentos Personalizados:** Para todos os níveis de condicionamento físico.
+- **Ambientes Confortáveis:** Com climatização e bastante espaço.
+- **Acompanhamento Profissional:** Com nutricionistas e personal trainers.
 
 ## Horários das Aulas da Academia
 
-### Segunda a Sexta:
-- 05:00 - 23:00
-
-### Sábados, Domingos e Feriados:
-- 08:00 - 16:00
-
-#### Filtro/Dia
 | Dia           | Horário  | Aula  | Instrutor |
 |---------------|----------|-------|-----------|
 | Segunda-feira | 06:00 AM | Yoga  | João      |
@@ -58,74 +46,55 @@ Na Power Fit, acreditamos que o exercício é para todos. Seja você iniciante o
 | Sábado        | 10:00 AM | Cardio | Ana       |
 | Domingo       | 11:00 AM | Dança  | Letícia   |
 
----
+**Horários de Funcionamento:**
+- Segunda a Sexta: 05:00 - 23:00
+- Sábados, Domingos e Feriados: 08:00 - 16:00
 
-## Conheça os Planos da Academia
+## Planos e Preços
 
-### Planos
-
-#### **Plano Light**
-Preço: R$ 100,00/mês  
-Ideal para quem busca treinar ocasionalmente, com acesso limitado aos serviços da academia.  
-**Benefícios Incluídos:**
+### **Plano Light**
+**Preço:** R$ 100,00/mês  
+**Benefícios:**
 - Acesso limitado a equipamentos de musculação
 - Acesso à área de cardio
 - Participação em até 2 aulas coletivas por mês
 - Vestiário e duchas
 
-#### **Plano Plus**
-Preço: R$ 130,00/mês  
-Para quem deseja treinar regularmente com acesso ilimitado a todas as áreas e recursos da academia.  
-**Benefícios Incluídos:**
-- Acesso completo a todos os equipamentos de musculação
+### **Plano Plus**
+**Preço:** R$ 130,00/mês  
+**Benefícios:**
+- Acesso completo a todos os equipamentos
 - Acesso ilimitado à área de cardio
-- Participação ilimitada em todas as aulas coletivas
+- Participação ilimitada em todas as aulas
 - Vestiário com duchas e armários pessoais
-- Acesso à sauna
 - Acompanhamento mensal com personal trainer
+- Acesso à sauna
 
-#### **Plano Família/Black**
-Preço: R$ 250,00/mês  
-Ideal para quem deseja treinar com todos os recursos e compartilhar o plano com a família ou amigos.  
-**Benefícios Incluídos:**
-- Acesso completo a todos os equipamentos de musculação
+### **Plano Família/Black**
+**Preço:** R$ 250,00/mês  
+**Benefícios:**
+- Acesso completo a todos os equipamentos
 - Acesso ilimitado à área de cardio
-- Participação ilimitada em todas as aulas coletivas
+- Participação ilimitada em todas as aulas
 - Vestiário com duchas e armários pessoais
 - Acesso à sauna
 - Acompanhamento mensal com personal trainer
 - Permite levar até 5 convidados
 
----
-
-## Avisos Importantes
+## Avisos
 
 ### Aviso de Saúde e Segurança
-Antes de iniciar qualquer programa de exercícios, consulte um profissional de saúde. Na Power Fit, garantimos a sua segurança com acompanhamento especializado.
+Antes de iniciar qualquer programa de exercícios, consulte um profissional de saúde. Nossa equipe está aqui para garantir que você treine com segurança.
 
-### Política de Cancelamento e Horários
-Cancelamentos e agendamentos devem ser feitos com 24 horas de antecedência para garantir uma experiência ideal para todos os membros.
-
----
-
-## Ficou com alguma dúvida? Entre em contato conosco!
-
-- **Nome:** 
-- **E-mail:** 
-- **Telefone:** 
-- [Enviar]
-
----
+### Política de Cancelamento
+Cancelamentos e agendamentos devem ser feitos com até 24 horas de antecedência para garantir o bom funcionamento da academia.
 
 ## Links Úteis
 
-- [Planos e Preços](#planos)
-- [Horários](#horarios-das-aulas-da-academia)
-- [Política de Cancelamento](#politica-de-cancelamento-e-horarios)
-- [Contato](#ficou-com-alguma-duvida-entre-em-contato-conosco)
-- [Localização](#localizacao)
-  
----
+- [Planos e Preços](#planos-e-preços)
+- [Horários](#horários-das-aulas-da-academia)
+- [Política de Cancelamento](#avisos)
+- [Contato](#contato)
 
 ## Redes Sociais
 
@@ -133,8 +102,6 @@ Cancelamentos e agendamentos devem ser feitos com 24 horas de antecedência para
 - [Instagram](#)
 - [Twitter](#)
 - [LinkedIn](#)
-
----
 
 ## Contato
 
